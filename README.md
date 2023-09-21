@@ -18,18 +18,30 @@ Despite the ship's advanced design and safety measures, it didn't have enough li
 The sinking of the Titanic resulted in the deaths of more than 1,500 people, making it one of the deadliest commercial peacetime maritime disasters in modern history.
 
 ### Data Description
+
 The dataset contains information about 891 passengers and 12 features on board the ship, including whether they survived or perished, as well as various attributes such as age, gender, ticket class, and more.
 Attribute Information of the Titanic Dataset:
 
   PassengerId: Id of passenger.
+  
   Survived: This column indicates whether a passenger survived (1) or did not survive (0) the Titanic disaster.
+  
   Pclass (Passenger Class): This represents the class of the passenger's ticket (1st, 2nd, or 3rd class), which is indicative of their socio-economic status.
+  
   Name: The name of the passenger.
+  
   Sex: The gender of the passenger (male or female).
+  
   Age: The age of the passenger.
+  
   SibSp: The number of siblings or spouses the passenger had on board.
+  
   Parch: The number of parents or children the passenger had on board.
+  
   Ticket: The ticket number of the passenger.
+  
   Fare: The fare paid by the passenger for the ticket.
+  
   Cabin: The cabin number where the passenger stayed. Some values may be missing.
+  
   Embarked: The port at which the passenger boarded the Titanic (C = Cherbourg; Q = Queenstown; S = Southampton).
