@@ -1,13 +1,20 @@
 # Titanic-Classification
 
 ## Introduction
-- The RMS Titanic was a British passenger liner that became one of the most famous and tragic ships in maritime history. It was renowned for its sheer size, opulence, and the ill-fated maiden voyage that ended in disaster. Here is a brief overview of the Titanic:
-- The Titanic was built at the Harland and Wolff shipyard in Belfast, Northern Ireland.
-- It was one of the largest and most luxurious ships of its time, boasting advanced safety features.
+The RMS Titanic was a British passenger liner that became one of the most famous and tragic ships in maritime history. It was renowned for its sheer size, opulence, and the ill-fated maiden voyage that ended in disaster. Here is a brief overview of the Titanic:
+
+The Titanic was built at the Harland and Wolff shipyard in Belfast, Northern Ireland.
+
+It was one of the largest and most luxurious ships of its time, boasting advanced safety features.
+
 The ship set sail on its maiden voyage from Southampton, England, on April 10, 1912, with stops in Cherbourg, France, and Queenstown (now known as Cobh), Ireland, before heading across the Atlantic to New York City.
+
 On the night of April 14-15, 1912, the Titanic struck an iceberg in the North Atlantic Ocean, approximately 370 miles (600 kilometres) south-southeast off the coast of Newfoundland.
+
 The collision caused a series of breaches in the ship's hull, leading to its eventual sinking.
+
 Despite the ship's advanced design and safety measures, it didn't have enough lifeboats for all passengers and crew, contributing to the high loss of life.
+
 The sinking of the Titanic resulted in the deaths of more than 1,500 people, making it one of the deadliest commercial peacetime maritime disasters in modern history.
 
 ### Data Description
